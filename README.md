@@ -1,16 +1,37 @@
-## Hi there 👋
+<span style="font-size: 2em; font-weight: bold; color: #4CAF50;">Hi, my name is Aritz welcome to my github 👋</span>
+<ul>
+  <li>🌱 I'm a student at 42Málaga.</li>
+  <li>💬 About me: Right now i'm focus on my studies at 42, but i would like to learn other programming languages like to improve my skills and knowledge in C, C++ and JAVA.
+</ul>
 
-<!--
-**Virtus-dev/Virtus-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<span style="font-size: 1.75em; color: #4CAF50;">42Projects📈</span>
+<table>
+    <thead>
+        <tr>
+            <th>Project</th>
+            <th>Description</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td><a href=>Ft_printf🖨%EF%B8%8F</a></td>
+            <td>You have to reproduce the behavior of printf</td>
+        </tr>
+       <tr>
+          <td><a href=>GNL📖</a></td>
+          <td>Learn how to read from a file</td>
+        </tr>
+        <tr>
+          <td><a href=>Push_Swap🔢</a></td>
+          <td>Learn sorting algorithms</td>
+        </tr>
+        <tr>
+          <td><a href=>Pipex📣</a></td>
+          <td>Pipe management</td>
+        </tr>
+        <tr>
+          <td><a href=>So_long🕹%EF%B8%8F</a></td>
+          <td>Do your own 2D game!</td>
+        </tr>
+    </tbody>
+</table>
