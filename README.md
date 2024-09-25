@@ -14,7 +14,7 @@
     </thead>
     <tbody>
         <tr>
-            <td><a href=>Ft_printf🖨%EF%B8%8F</a></td>
+            <td><a href=>Ft_printf</a></td>
             <td>You have to reproduce the behavior of printf</td>
         </tr>
        <tr>
@@ -26,11 +26,11 @@
           <td>Learn sorting algorithms</td>
         </tr>
         <tr>
-          <td><a href=>Pipex📣</a></td>
-          <td>Pipe management</td>
+          <td><a href=>minitalk</a></td>
+          <td>signal management</td>
         </tr>
         <tr>
-          <td><a href=>So_long🕹%EF%B8%8F</a></td>
+          <td><a href=>So_long</a></td>
           <td>Do your own 2D game!</td>
         </tr>
     </tbody>
