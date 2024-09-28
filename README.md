@@ -2,7 +2,7 @@
 <span style="font-size: 2em; font-weight: bold; color: #4CAF50;">Hi, my name is Aritz welcome to my github 👋</span>
 <ul>
   <li>🌱 I'm a student at 42Málaga.</li>
-  <li>💬 About me: Right now i'm focus on my studies at 42, but i would like to learn other programming languages like to improve my skills and knowledge in C, C++ and JAVA.
+  <li>💬 About me: Right now i'm focusing my self on my studies at 42 while working at the same time, so i can't espent the amount of time i would like to programing, wich is, one of my passions, but im still working to improve my skills and learn more about C, C++ and Java.
 </ul>
 
 <span style="font-size: 1.75em; color: #4CAF50;">42Projects📈</span>
