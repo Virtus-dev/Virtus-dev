@@ -136,7 +136,7 @@
           </td>
         </tr>
       <tr>
-        <td>
+        <td><a href="https://github.com/Virtus-dev/philosophers">Philosophers</a><td>
             The main objective of the Philosophers project is to solve the dining philosophers problem using concurrent programming. This project focuses on avoiding deadlocks and race conditions in multithreaded applications through the              use of mutexes and semaphores. Students must implement a solution where multiple philosophers share a limited number of resources (forks) without encountering deadlocks or starvation.
         </td>
         <td>
