@@ -136,6 +136,24 @@
           </td>
         </tr>
       <tr>
+        <td>
+            The main objective of the Philosophers project is to solve the dining philosophers problem using concurrent programming. This project focuses on avoiding deadlocks and race conditions in multithreaded applications through the              use of mutexes and semaphores. Students must implement a solution where multiple philosophers share a limited number of resources (forks) without encountering deadlocks or starvation.
+        </td>
+        <td>
+          - C<br>
+          - POSIX THREADS (pthreads)<br>
+          - Mutex<br>
+          - semaphores<br>
+          - Makefile<br>
+        </td>
+        <td>
+          - Concurrent programing<br>
+          - Syncrhonization<br>
+          - Avoid deadlocks
+          - Optimization
+        </td>
+      </tr>
+      <tr>
         <td><a href="https://github.com/Virtus-dev/minishell">Minishell</a></td>
         <td>
           The main objective of the Minishell project is to understand and replicate the behavior of a basic Unix shell, such as Bash. This project involves implementing a command interpreter that can execute commands, manage                        environment variables, handle redirections and pipes, and respond to user signals. It is a complex project that introduces us to fundamental concepts in systems programming.
