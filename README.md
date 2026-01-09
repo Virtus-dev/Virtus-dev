@@ -41,7 +41,7 @@ Vengo de un entorno muy práctico (42 School), lo que me ha dado una mentalidad 
 
 <ul>
   <li>
-    <strong>RES API</strong><br>
+    <strong>B_Broker</strong><br>
     API REST orientada a precios y snapshots de mercado, con diseño cuidado de entidades,
     DTOs y relaciones.
   </li>
@@ -101,7 +101,7 @@ I come from a highly practical environment (42 School), which shaped a mindset o
 
 <ul>
   <li>
-    <strong>RES API</strong><br>
+    <strong>B_Broker</strong><br>
     REST API focused on market price snapshots, with careful entity, DTO, and relationship design.
   </li>
   <li>
