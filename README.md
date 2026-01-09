@@ -57,7 +57,7 @@ Vengo de un entorno muy práctico (42 School), lo que me ha dado una mentalidad 
 <ul>
   <li>💼 <a href="https://www.linkedin.com/in/aritz-gonz%C3%A1lez-p%C3%A9rez-97a495248/">LinkedIn</a></li>
   <li>🧑‍💻 <a href="https://github.com/Virtus-dev">GitHub</a></li>
-  <li>✉️ <a href="mailto:aritzgonzalez92@gmail.com">aritzgonzalez92@gmail.com</a></li>
+  <li>✉️ <a href="mailto:arigonza.dev@outlook.com">arigonza.dev@outlook.com.com</a></li>
 </ul>
 
 <hr>
